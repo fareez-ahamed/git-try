@@ -2,7 +2,7 @@
 #include <feature01.h>
 
 int main() {
-	printf("Hello world\n");
+	printf("Hello universe\n");
 	startProgram();
 	return 0;
 }
